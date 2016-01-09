@@ -10,10 +10,10 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="amd.20150913232631.1" a="E"><vh>@settings</vh>
+<v t="amd.20150913232631.1"><vh>@settings</vh>
 <v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
-<v t="amd.20150915153206.1" a="E"><vh>專案說明</vh>
+<v t="amd.20150915153206.1"><vh>專案說明</vh>
 <v t="amd.20150919102209.1" a="E"><vh>使用工具</vh>
 <v t="amd.20150919112415.1"><vh>影片檔案</vh></v>
 </v>
@@ -37,23 +37,23 @@
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
-<v t="leo.20151116031345.1"><vh>@edit 40123157_cp_w1.md</vh></v>
-<v t="leo.20151116031358.1"><vh>@edit 40123157_cp_w2.md</vh></v>
-<v t="leo.20151116031408.1"><vh>@edit 40123157_cp_w3.md</vh></v>
-<v t="leo.20151116031418.1"><vh>@edit 40123157_cp_w5.md</vh></v>
-<v t="leo.20151116031427.1"><vh>@edit 40123157_cp_w6.md</vh></v>
-<v t="leo.20151116031506.1"><vh>@edit 40123157_cp_w7.md</vh></v>
-<v t="leo.20151116072753.1"><vh>@edit 40123157_cp_w8.md</vh></v>
+<v t="leo.20151116031345.1"><vh>@edit 40123237_cp_w1.md</vh></v>
+<v t="leo.20151116031358.1"><vh>@edit 40123237_cp_w2.md</vh></v>
+<v t="leo.20151116031408.1"><vh>@edit 40123237_cp_w3.md</vh></v>
+<v t="leo.20151116031418.1"><vh>@edit 40123237_cp_w5.md</vh></v>
+<v t="leo.20151116031427.1"><vh>@edit 40123237_cp_w6.md</vh></v>
+<v t="leo.20151116031506.1"><vh>@edit 40123237_cp_w7.md</vh></v>
+<v t="leo.20151116072753.1"><vh>@edit 40123237_cp_w8.md</vh></v>
 <v t="leo.20160108121625.1"><vh>@edit 40123237_w17.md</vh></v>
 </v>
 <v t="amd.20150919120205.1" a="E"><vh>以下為 reveal 投影片</vh>
-<v t="leo.20151116031556.1"><vh>@edit 40123157_cp_w1_p.html</vh></v>
-<v t="leo.20151116031606.1"><vh>@edit 40123157_cp_w2_p.html</vh></v>
-<v t="leo.20151116031621.1"><vh>@edit 40123157_cp_w3_p.html</vh></v>
-<v t="leo.20151116031629.1"><vh>@edit 40123157_cp_w5_p.html</vh></v>
-<v t="leo.20151116031638.1"><vh>@edit 40123157_cp_w6_p.html</vh></v>
-<v t="leo.20151116031647.1"><vh>@edit 40123157_cp_w7_p.html</vh></v>
-<v t="leo.20151116072736.1"><vh>@edit 40123157_cp_w8_p.html</vh></v>
+<v t="leo.20151116031556.1"><vh>@edit 40123237_cp_w1_p.html</vh></v>
+<v t="leo.20151116031606.1"><vh>@edit 40123237_cp_w2_p.html</vh></v>
+<v t="leo.20151116031621.1"><vh>@edit 40123237_cp_w3_p.html</vh></v>
+<v t="leo.20151116031629.1"><vh>@edit 40123237_cp_w5_p.html</vh></v>
+<v t="leo.20151116031638.1"><vh>@edit 40123237_cp_w6_p.html</vh></v>
+<v t="leo.20151116031647.1"><vh>@edit 40123237_cp_w7_p.html</vh></v>
+<v t="leo.20151116072736.1"><vh>@edit 40123237_cp_w8_p.html</vh></v>
 </v>
 <v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
